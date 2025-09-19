@@ -1,11 +1,21 @@
 body{
-   background-color:rgba(219, 89, 237, 0.737) ;
-color: blue;
+   background-color:rgba(219, 157, 227, 0.737) ;
+color: rgb(89, 158, 237);
    font-family: "Inter", sans-serif;
+   margin: 0px;
 }
 header{
    font-size: 40px; 
+   border-bottom:  double  5px rgb(230, 84, 108);
+   text-align: center;
+   /*margin: 30px;*/
+   padding: 20px;
 }
+
 h1{
-   font-size: 20px;
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
 }
