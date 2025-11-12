@@ -9,7 +9,8 @@ header{
    border-bottom:  double  5px rgb(230, 84, 108);
    text-align: center;
    /*margin: 30px;*/
-   padding: 20px;
+   padding: 30px;
+   color: black;
 }
 
 h1{
@@ -18,4 +19,12 @@ h1{
 
 p{
     font-size: 20px;
+}
+
+section{
+background-color: rgb(178, 184, 189);
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
+
 }
