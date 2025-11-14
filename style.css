@@ -1,12 +1,12 @@
 body{
-   background-color:rgba(219, 157, 227, 0.737) ;
-color: rgb(89, 158, 237);
+   background-color:rgba(213, 10, 7, 0.875) ;
+color: rgb(27, 64, 107);
    font-family: "Inter", sans-serif;
    margin: 0px;
 }
 header{
    font-size: 40px; 
-   border-bottom:  double  5px rgb(230, 84, 108);
+   border-bottom:  double  5px rgb(109, 13, 5);
    text-align: center;
    /*margin: 30px;*/
    padding: 30px;
@@ -15,6 +15,7 @@ header{
 
 h1{
     font-size: 30px;
+    color: black;
 }
 
 p{
@@ -22,7 +23,7 @@ p{
 }
 
 section{
-background-color: rgb(62, 157, 235);
+background-color: rgb(19, 139, 238);
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
